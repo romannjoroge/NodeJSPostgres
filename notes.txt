@@ -1,0 +1,2 @@
+CONNECTING NODEJS AND POSTGRESQL
+- pg acts as the bridge between your Node/ express API and a PostgeSQL database
